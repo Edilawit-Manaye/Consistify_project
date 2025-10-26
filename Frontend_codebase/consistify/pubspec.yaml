@@ -1,0 +1,61 @@
+
+name: consistify # Changed name to reflect the project
+description: Your ultimate companion for maintaining coding consistency on LeetCode and Codeforces.
+publish_to: 'none' # Remove this line if you intend to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.8.0 <4.0.0' # Updated to match Flutter SDK version
+
+dependencies:
+  flutter:
+    sdk: flutter
+  json_annotation: ^4.8.1
+
+  cupertino_icons: ^1.0.8 # Updated version to match your example
+  http: ^1.1.0 # For making HTTP requests
+  shared_preferences: ^2.2.1 # For local key-value storage
+  flutter_secure_storage: ^9.0.0 # For secure local storage (auth tokens)
+  equatable: ^2.0.5 # For easier equality comparison in entities and blocs
+  dartz: ^0.10.1 # For functional error handling (Either type)
+  flutter_bloc: ^9.1.1 # State management with BLoC
+  get_it: ^8.2.0 # Simple service locator
+  intl: ^0.20.2 # For date formatting and internationalization
+  table_calendar: ^3.0.9 # For displaying a calendar on the dashboard
+#  internet_connection_checker_plus: ^2.0.0 # For real-time internet connectivity checks
+  internet_connection_checker: ^3.0.1
+
+  # Firebase dependencies
+  firebase_core: ^4.2.0
+  firebase_messaging: ^16.0.3
+  flutter_local_notifications: ^19.5.0
+#  flutter_native_timezone: ^2.0.0 # For getting device timezone for user profile updates
+#  flutter_native_timezone: ^2.2.1 # Update to the latest version
+  flutter_timezone: ^5.0.0
+
+  # JSON serialization
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0 # Keeping the modern lints, your ^5.0.0 might be for older Dart versions, ^2.0.0 is standard for Dart 3+
+  bloc_test: ^10.0.0
+  mocktail: ^1.0.4
+  integration_test:
+    sdk: flutter
+
+
+  # Code generation dependencies
+  build_runner: ^2.4.6 # Tool to run code generators
+  json_serializable: ^6.7.1 # Generates fromJson/toJson methods for models
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/icons/ # Make sure this path is correct and the directory exists and contains your icons
+
+

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121146493417",
+    "project_id": "consistify-app",
+    "storage_bucket": "consistify-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121146493417:android:8650b2a763d9bd25b7a378",
+        "android_client_info": {
+          "package_name": "com.example.consistify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcAiQTYPLLS9RX2CfpYC7SMW38hcd9fgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
