@@ -139,7 +139,7 @@ Example reminder text:
 
 
 
-### Frontend (Mobile)
+### Frontend 
 <p>
   <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/BLoC-flutter__bloc-42A5F5?logo=flutter&logoColor=white" />
