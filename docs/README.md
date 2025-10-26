@@ -61,13 +61,13 @@ Example reminder text:
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/register_1.jpg" width="240" alt="Register"/>
+      <img src="register_1.jpg" width="240" alt="Register"/>
     </td>
     <td align="center">
-      <img src="docs/register_2.jpg" width="220" alt="Time Picker"/>
+      <img src="register_2.jpg" width="220" alt="Time Picker"/>
     </td>
     <td align="center">
-      <img src="docs/register_3.jpg" width="240" alt="Register (variant)"/>
+      <img src="register_3.jpg" width="240" alt="Register (variant)"/>
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ Example reminder text:
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/login.jpg" width="270" alt="Login"/>
+      <img src="login.jpg" width="270" alt="Login"/>
     </td>
   </tr>
 </table>
@@ -92,11 +92,11 @@ Example reminder text:
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/not_consistent.jpg" width="260" alt="Dashboard - Not Consistent"/>
+      <img src="not_consistent.jpg" width="260" alt="Dashboard - Not Consistent"/>
       <div><i></i></div>
     </td>
     <td align="center">
-      <img src="docs/consistent.jpg" width="260" alt="Dashboard - Consistent"/>
+      <img src="consistent.jpg" width="260" alt="Dashboard - Consistent"/>
       <div><i></i></div>
     </td>
     
@@ -117,10 +117,10 @@ Example reminder text:
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/profile.jpg" width="260" alt="Profile - View/Edit"/>
+      <img src="profile.jpg" width="260" alt="Profile - View/Edit"/>
     </td>
     <td align="center">
-      <img src="docs/profile_2.jpg" width="260" alt="Profile - Variant"/>
+      <img src="profile_2.jpg" width="260" alt="Profile - Variant"/>
     </td>
   </tr>
 </table>
