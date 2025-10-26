@@ -49,7 +49,7 @@ Example reminder text:
   </tr>
   <tr>
     <td align="center">
-      <img src="docs/welcome.jpg" width="270" alt="Welcome"/>
+      <img src="welcome.jpg" width="270" alt="Welcome"/>
     </td>
   </tr>
 </table>
