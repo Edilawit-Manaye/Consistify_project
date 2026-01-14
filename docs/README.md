@@ -1,7 +1,7 @@
-##  Consistify : The Ultimate Companion for Maintaining Coding Consistency on LeetCode and Codeforces
+## CodePulse(Consistify) : The Ultimate Companion for Maintaining Coding Consistency on LeetCode and Codeforces
 🔔 Reminders  📅 Daily check  🔥 Streaks  🛡️ JWT + local storage
 
-Consistify  is a smart, cross‑platform that keeps your LeetCode/Codeforces practice on track. It checks whether you’ve solved a problem today and, at your personal cutoff time (e.g., 18:00), sends a precise reminder so you don’t skip a day or break your streak.
+CodePulse(Consistify)  is a smart, cross‑platform that keeps your LeetCode/Codeforces practice on track. It checks whether you’ve solved a problem today and, at your personal cutoff time (e.g., 18:00), sends a precise reminder so you don’t skip a day or break your streak.
 ## 🚨 Problem
 - Missed days happen unintentionally. Developers get busy and forget to solve a problem, breaking streaks they worked hard to build.
 - Streak loss kills motivation. One lapse reduces streaks and breaks the habit loop that drives improvement.
@@ -9,7 +9,7 @@ Consistify  is a smart, cross‑platform that keeps your LeetCode/Codeforces pra
 - No timely nudge. People don’t get reminders at the right time for them. Without a reminder set to their own schedule, they can easily miss the time to solve a problem.
 
 ## 💡 Solution
-Consistify  tracks whether you solved a problem today and pairs it with a user‑defined notification time (set during registration or in Profile). If you haven’t solved anything by that time, the app sends a clear, actionable reminder to protect your streak and keep your skills sharp.
+CodePulse(Consistify)  tracks whether you solved a problem today and pairs it with a user‑defined notification time (set during registration or in Profile). If you haven’t solved anything by that time, the app sends a clear, actionable reminder to protect your streak and keep your skills sharp.
 
 ### How it works
 - Monitors whether you solved at least one problem each day.
